@@ -7,22 +7,22 @@ line_numbers: false
 
 <section class="wrap">
     <div class="secondary">
-        <p>Add text here.</p>
+        <p>Voeg hier tekst toe.</p>
     </div>
     <img src="placeholder.png" alt="Description of the image.">
     <div class="tertiary">
-        <p>Add text here.</p>
+        <p>Voeg hier tekst toe.</p>
     </div>
 </section>
 
 \--- /code ---
 
-Add or remove `<div>` and `<img>` elements as needed. They will wrap if there is not enough space.
+Voeg indien nodig `<div>` en `<img>` elementen toe of verwijder deze. Ze zullen automatisch op de juiste plek worden gezet als er niet genoeg ruimte is.
 
-Use the `primary`, `secondary` and `tertiary` styles to control the background and font colour for paragraphs of text.
+Gebruik de stijlen 'primair', 'secundair' en 'tertiair' om de achtergrond- en lettertypekleur voor de tekstparagrafen te bepalen.
 
-![Three elements in a line.](images/3-inline-wrap.png)
+![Drie elementen op een regel.](images/3-inline-wrap.png)
 
-![Two elements inline with a third wrapped below.](images/2-1-wrap.png)
+![Twee elementen op een lijn met een derde eronder.](images/2-1-wrap.png)
 
-![Three elements wrapped vertically one per line.](images/1-1-1-wrap.png)
+![Drie elementen verticaal gewrapt, één per regel.](images/1-1-1-wrap.png)
